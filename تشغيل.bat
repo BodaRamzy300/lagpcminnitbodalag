@@ -1,0 +1,2 @@
+node hack.js
+-pause
